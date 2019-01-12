@@ -28,7 +28,7 @@ div {
 }
 
 header {
-	text-align: right;
+	text-align: left;
 }
 
 footer {
@@ -38,9 +38,9 @@ footer {
 }
 
 h1 {
-	position: absolute;
+	position: center;
 	top: 20px;
-	margin-left: 100px;
+	margin-left: 300px;
 }
 
 .head {
@@ -67,7 +67,7 @@ h1 {
 	text-align: center;
 }
 
-#museums {
+#events {
 	text-align: center;
 }
 
@@ -75,11 +75,11 @@ h1 {
 	text-align: center;
 }
 
-#sports {
+#near by locations {
 	text-align: center;	
 }
 
-#outdoors {
+#history {
 	text-align: center;
 }
 
